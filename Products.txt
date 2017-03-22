@@ -1,0 +1,25 @@
+Snack NyamSugar 400 4000 8
+Cake NyamSugar 30 3000 9
+Cookies NyamSugar 2000 20 10
+Potato ProtoFarm 40 4500 8
+Potato ProtoFarm 80 5500 9
+Apple ProtoFarm 90 550 2
+Cookies NyamSugar 20 550 140
+Apple ProtoFarm 140 900 150
+Milk ProtoFarm 50 500 50
+Ham ProtoFarm 200 280 6
+Milk ProtoFarm 90 440 8
+Plum ProtoFarm 120 600 9
+
+Snack SweetSugar 500 5000 600
+Cake SweetSugar 700 700 700
+Cookies SweetSugar 600 900 180 
+Potato GreenFarm 444 890 364
+Potato GreenFarm 943 519 246
+Apple GreenFarm 999 123 546
+Cookies SweetSugar 999 9874 321
+Apple GreenFarm 16 849 984
+Milk GreenFarm 49 651 068
+Ham GreenFarm 123 456 789
+Milk GreenFarm 987 654 321
+Plum GreenFarm 123 684 97
