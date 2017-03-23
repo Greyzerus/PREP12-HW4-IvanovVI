@@ -150,9 +150,7 @@ void print_products_with_higher_shell_life (int shell_life, Product* Products, i
 
 void free_Products (Product* Products, int size)
 {
-	if (Products == NULL)
+	if (Products == nullptr)
 		return;
-	/*for (int iter=size-1; iter>=0; iter--)
-	    delete &Products[iter];*///Troubles with destructor
 	delete[] Products;
 }
