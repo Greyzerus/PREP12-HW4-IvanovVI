@@ -34,10 +34,8 @@ Product::~Product(void)
 {
 	if (this->name != NULL)
 		delete[] this->name;
-	this->name = NULL;
 	if (this->manufacturer != NULL)
 		delete[] this->manufacturer;
-	this->manufacturer = NULL;
 }
 
 /*void Product::set_all (char* name, char* manufacturer,
