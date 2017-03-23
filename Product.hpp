@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 #include <fstream>
-#include <string.h>
+#include <cstring>
 
 #ifndef PREP12_HW4_IVANOVVI_PRODUCT_HPP
 #define PREP12_HW4_IVANOVVI_PRODUCT_HPP
