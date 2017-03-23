@@ -1,7 +1,7 @@
 #include "Product.hpp"
 #include <iostream>
 #include <fstream>
-#include <string.h>
+#include <cstring>
 
 Product::Product (
 	char* name,
