@@ -17,11 +17,6 @@
 #define NAME_LENGTH 30
 #endif
 
-#define HOURS_IN_DAY 24
-#define HOURS_IN_WEEK HOURS_IN_DAY*7
-#define HOURS_IN_MONTH HOURS_IN_WEEK*30
-#define HOURS_IN_YEAR HOURS_IN_MONTH*365
-
 
 Product* get_Products_from_fstream (int* size, std::fstream* infile)	{
 	struct Buf {
